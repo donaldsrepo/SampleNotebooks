@@ -1,0 +1,9 @@
+Name,Age,Sex,Job
+Joe,24,M,Engineer
+Mary,26,F,Engineer
+Jane,32,F,Engineer
+Jane,31,F,Engineer
+Nancy,25,F,Technician
+Harry,28,M,Manager
+Sally,27,F,Manager
+Joe,27,M,Engineer

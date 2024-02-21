@@ -1,0 +1,16 @@
+nohup: ignoring input
+nohup: ignoring input and appending output to 'nohup.out'
+nohup: ignoring input and appending output to 'nohup.out'
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+Traceback (most recent call last):
+  File "exampleScripts.py", line 26, in <module>
+    thread = threading.Thread(target=list_append(size, i, out_list))
+  File "exampleScripts.py", line 14, in list_append
+    out_list.append(random.random())
+MemoryError
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
